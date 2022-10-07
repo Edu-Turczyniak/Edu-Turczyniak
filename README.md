@@ -4,6 +4,7 @@
 - :iphone: (eduardo.turczyniak@escola.pr.gov.br)
 - :small_blue_diamond:18 anos
 - :wine_glass::moyai:
+- :tada: since 2004
 
 <!---
 Edu-Turczyniak/Edu-Turczyniak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
